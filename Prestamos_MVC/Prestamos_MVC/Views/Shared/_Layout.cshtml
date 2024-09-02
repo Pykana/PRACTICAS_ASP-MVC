@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Prestamos_MVC</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Prestamos_MVC.styles.css" asp-append-version="true" />
+    @* DevExtreme Theme *@
+    <link rel="stylesheet" href="~/LibDex/css/dx.material.blue.light.css" asp-append-version="true" />
+    @* Estilos Personalizados *@
+    <link rel="stylesheet" href="~/css/Layout.css" asp-append-version="true" />
+
+</head>
+<body>
+    <div class="sidebar">
+        <nav class="navbar navbar-light">
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Prestamos_MVC</a>
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Privacy">Configuracion</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+    <div class="main-content">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @* DevExtreme Lib *@
+    <script src="~/LibDex/js/dx.all.js" asp-append-version="true"></script>
+    @* ExcelJS  Lib*@
+    <script src="~/ExcelJS/exceljs.min.js" asp-append-version="true"></script>
+    @* Knockoutjs  Lib*@
+    <script src="~/Knockoutjs/knockout-3.5.1.js" asp-append-version="true"></script>
+    @* FileSaver  Lib*@
+    <script src="~/FileSaver/FileSaver.min.js" asp-append-version="true"></script>
+    @* Mustache  Lib*@
+    <script src="~/Mustache/mustache.min.js" asp-append-version="true"></script>
+    @* Polyfill  Lib*@
+    <script src="~/Polyfill/polyfill.min.js" asp-append-version="true"></script>
+    @* JS Page - Index *@
+    <script src="~/js/Index.js" asp-append-version="true"></script>
+    @* Renderizar *@
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

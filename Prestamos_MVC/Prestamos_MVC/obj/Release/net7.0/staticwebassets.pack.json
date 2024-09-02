@@ -1,0 +1,889 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\Prestamos_MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Prestamos_MVC.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\ExcelJS\\exceljs.min.js",
+      "PackagePath": "staticwebassets\\ExcelJS\\exceljs.min.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\FileSaver\\FileSaver.min.js",
+      "PackagePath": "staticwebassets\\FileSaver\\FileSaver.min.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\Knockoutjs\\knockout-3.5.1.js",
+      "PackagePath": "staticwebassets\\Knockoutjs\\knockout-3.5.1.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx-diagram.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx-diagram.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx-diagram.min.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx-diagram.min.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx-gantt.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx-gantt.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx-gantt.min.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx-gantt.min.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.carmine.compact.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.carmine.compact.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.carmine.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.carmine.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.common.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.common.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.contrast.compact.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.contrast.compact.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.contrast.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.contrast.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.dark.compact.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.dark.compact.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.dark.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.dark.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.darkmoon.compact.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.darkmoon.compact.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.darkmoon.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.darkmoon.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.darkviolet.compact.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.darkviolet.compact.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.darkviolet.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.darkviolet.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.greenmist.compact.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.greenmist.compact.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.greenmist.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.greenmist.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.light.compact.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.light.compact.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.light.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.light.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.material.blue.dark.compact.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.material.blue.dark.compact.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.material.blue.dark.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.material.blue.dark.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.material.blue.light.compact.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.material.blue.light.compact.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.material.blue.light.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.material.blue.light.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.material.lime.dark.compact.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.material.lime.dark.compact.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.material.lime.dark.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.material.lime.dark.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.material.lime.light.compact.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.material.lime.light.compact.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.material.lime.light.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.material.lime.light.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.material.orange.dark.compact.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.material.orange.dark.compact.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.material.orange.dark.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.material.orange.dark.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.material.orange.light.compact.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.material.orange.light.compact.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.material.orange.light.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.material.orange.light.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.material.purple.dark.compact.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.material.purple.dark.compact.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.material.purple.dark.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.material.purple.dark.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.material.purple.light.compact.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.material.purple.light.compact.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.material.purple.light.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.material.purple.light.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.material.teal.dark.compact.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.material.teal.dark.compact.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.material.teal.dark.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.material.teal.dark.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.material.teal.light.compact.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.material.teal.light.compact.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.material.teal.light.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.material.teal.light.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.softblue.compact.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.softblue.compact.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\dx.softblue.css",
+      "PackagePath": "staticwebassets\\LibDex\\css\\dx.softblue.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\fonts\\Roboto-300.ttf",
+      "PackagePath": "staticwebassets\\LibDex\\css\\fonts\\Roboto-300.ttf"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\fonts\\Roboto-300.woff",
+      "PackagePath": "staticwebassets\\LibDex\\css\\fonts\\Roboto-300.woff"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\fonts\\Roboto-300.woff2",
+      "PackagePath": "staticwebassets\\LibDex\\css\\fonts\\Roboto-300.woff2"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\fonts\\Roboto-400.ttf",
+      "PackagePath": "staticwebassets\\LibDex\\css\\fonts\\Roboto-400.ttf"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\fonts\\Roboto-400.woff",
+      "PackagePath": "staticwebassets\\LibDex\\css\\fonts\\Roboto-400.woff"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\fonts\\Roboto-400.woff2",
+      "PackagePath": "staticwebassets\\LibDex\\css\\fonts\\Roboto-400.woff2"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\fonts\\Roboto-500.ttf",
+      "PackagePath": "staticwebassets\\LibDex\\css\\fonts\\Roboto-500.ttf"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\fonts\\Roboto-500.woff",
+      "PackagePath": "staticwebassets\\LibDex\\css\\fonts\\Roboto-500.woff"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\fonts\\Roboto-500.woff2",
+      "PackagePath": "staticwebassets\\LibDex\\css\\fonts\\Roboto-500.woff2"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\fonts\\Roboto-700.ttf",
+      "PackagePath": "staticwebassets\\LibDex\\css\\fonts\\Roboto-700.ttf"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\fonts\\Roboto-700.woff",
+      "PackagePath": "staticwebassets\\LibDex\\css\\fonts\\Roboto-700.woff"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\fonts\\Roboto-700.woff2",
+      "PackagePath": "staticwebassets\\LibDex\\css\\fonts\\Roboto-700.woff2"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\icons\\dxicons.ttf",
+      "PackagePath": "staticwebassets\\LibDex\\css\\icons\\dxicons.ttf"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\icons\\dxicons.woff",
+      "PackagePath": "staticwebassets\\LibDex\\css\\icons\\dxicons.woff"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\icons\\dxicons.woff2",
+      "PackagePath": "staticwebassets\\LibDex\\css\\icons\\dxicons.woff2"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\icons\\dxiconsmaterial.ttf",
+      "PackagePath": "staticwebassets\\LibDex\\css\\icons\\dxiconsmaterial.ttf"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\icons\\dxiconsmaterial.woff",
+      "PackagePath": "staticwebassets\\LibDex\\css\\icons\\dxiconsmaterial.woff"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\css\\icons\\dxiconsmaterial.woff2",
+      "PackagePath": "staticwebassets\\LibDex\\css\\icons\\dxiconsmaterial.woff2"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\FileSaver.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\FileSaver.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\FileSaver.min.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\FileSaver.min.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\angular.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\angular.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\angular.min.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\angular.min.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\cldr.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\cldr.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\cldr.min.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\cldr.min.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\cldr\\event.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\cldr\\event.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\cldr\\event.min.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\cldr\\event.min.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\cldr\\supplemental.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\cldr\\supplemental.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\cldr\\supplemental.min.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\cldr\\supplemental.min.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\cldr\\unresolved.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\cldr\\unresolved.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\cldr\\unresolved.min.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\cldr\\unresolved.min.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\dx-diagram.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\dx-diagram.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\dx-diagram.min.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\dx-diagram.min.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\dx-gantt.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\dx-gantt.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\dx-gantt.min.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\dx-gantt.min.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\dx-quill.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\dx-quill.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\dx-quill.min.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\dx-quill.min.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\dx.all.debug.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\dx.all.debug.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\dx.all.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\dx.all.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\dx.aspnet.mvc.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\dx.aspnet.mvc.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\dx.viz.debug.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\dx.viz.debug.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\dx.viz.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\dx.viz.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\dx.web.debug.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\dx.web.debug.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\dx.web.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\dx.web.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\exceljs.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\exceljs.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\exceljs.min.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\exceljs.min.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\globalize.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\globalize.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\globalize.min.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\globalize.min.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\globalize\\currency.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\globalize\\currency.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\globalize\\currency.min.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\globalize\\currency.min.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\globalize\\date.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\globalize\\date.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\globalize\\date.min.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\globalize\\date.min.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\globalize\\message.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\globalize\\message.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\globalize\\message.min.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\globalize\\message.min.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\globalize\\number.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\globalize\\number.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\globalize\\number.min.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\globalize\\number.min.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\jquery.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\jspdf.plugin.autotable.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\jspdf.plugin.autotable.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\jspdf.plugin.autotable.min.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\jspdf.plugin.autotable.min.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\jspdf.umd.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\jspdf.umd.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\jspdf.umd.min.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\jspdf.umd.min.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\jszip.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\jszip.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\jszip.min.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\jszip.min.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\knockout-latest.debug.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\knockout-latest.debug.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\knockout-latest.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\knockout-latest.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\localization\\dx.messages.ar.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\localization\\dx.messages.ar.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\localization\\dx.messages.ca.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\localization\\dx.messages.ca.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\localization\\dx.messages.cs.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\localization\\dx.messages.cs.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\localization\\dx.messages.de.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\localization\\dx.messages.de.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\localization\\dx.messages.el.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\localization\\dx.messages.el.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\localization\\dx.messages.en.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\localization\\dx.messages.en.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\localization\\dx.messages.es.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\localization\\dx.messages.es.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\localization\\dx.messages.fa.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\localization\\dx.messages.fa.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\localization\\dx.messages.fi.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\localization\\dx.messages.fi.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\localization\\dx.messages.fr.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\localization\\dx.messages.fr.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\localization\\dx.messages.hu.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\localization\\dx.messages.hu.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\localization\\dx.messages.it.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\localization\\dx.messages.it.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\localization\\dx.messages.ja.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\localization\\dx.messages.ja.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\localization\\dx.messages.lt.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\localization\\dx.messages.lt.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\localization\\dx.messages.lv.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\localization\\dx.messages.lv.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\localization\\dx.messages.nb.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\localization\\dx.messages.nb.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\localization\\dx.messages.nl.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\localization\\dx.messages.nl.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\localization\\dx.messages.pt.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\localization\\dx.messages.pt.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\localization\\dx.messages.ro.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\localization\\dx.messages.ro.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\localization\\dx.messages.ru.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\localization\\dx.messages.ru.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\localization\\dx.messages.sl.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\localization\\dx.messages.sl.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\localization\\dx.messages.sv.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\localization\\dx.messages.sv.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\localization\\dx.messages.tr.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\localization\\dx.messages.tr.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\localization\\dx.messages.vi.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\localization\\dx.messages.vi.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\localization\\dx.messages.zh-tw.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\localization\\dx.messages.zh-tw.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\localization\\dx.messages.zh.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\localization\\dx.messages.zh.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\vectormap-data\\africa.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\vectormap-data\\africa.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\vectormap-data\\canada.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\vectormap-data\\canada.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\vectormap-data\\eurasia.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\vectormap-data\\eurasia.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\vectormap-data\\europe.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\vectormap-data\\europe.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\vectormap-data\\usa.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\vectormap-data\\usa.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\vectormap-data\\world.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\vectormap-data\\world.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\vectormap-utils\\dx.vectormaputils.debug.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\vectormap-utils\\dx.vectormaputils.debug.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\vectormap-utils\\dx.vectormaputils.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\vectormap-utils\\dx.vectormaputils.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\vectormap-utils\\dx.vectormaputils.node.js",
+      "PackagePath": "staticwebassets\\LibDex\\js\\vectormap-utils\\dx.vectormaputils.node.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\ts\\cldr.js-event.d.ts",
+      "PackagePath": "staticwebassets\\LibDex\\ts\\cldr.js-event.d.ts"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\ts\\cldr.js-supplemental.d.ts",
+      "PackagePath": "staticwebassets\\LibDex\\ts\\cldr.js-supplemental.d.ts"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\ts\\cldr.js.d.ts",
+      "PackagePath": "staticwebassets\\LibDex\\ts\\cldr.js.d.ts"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\ts\\dx.all.d.ts",
+      "PackagePath": "staticwebassets\\LibDex\\ts\\dx.all.d.ts"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\ts\\globalize.d.ts",
+      "PackagePath": "staticwebassets\\LibDex\\ts\\globalize.d.ts"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\ts\\jquery.d.ts",
+      "PackagePath": "staticwebassets\\LibDex\\ts\\jquery.d.ts"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\ts\\knockout.d.ts",
+      "PackagePath": "staticwebassets\\LibDex\\ts\\knockout.d.ts"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\Mustache\\mustache.min.js",
+      "PackagePath": "staticwebassets\\Mustache\\mustache.min.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\Polyfill\\polyfill.min.js",
+      "PackagePath": "staticwebassets\\Polyfill\\polyfill.min.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\css\\Layout.css",
+      "PackagePath": "staticwebassets\\css\\Layout.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\js\\Index.js",
+      "PackagePath": "staticwebassets\\js\\Index.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.Prestamos_MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.Prestamos_MVC.props",
+      "PackagePath": "build\\Prestamos_MVC.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Prestamos_MVC.props",
+      "PackagePath": "buildMultiTargeting\\Prestamos_MVC.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.Prestamos_MVC.props",
+      "PackagePath": "buildTransitive\\Prestamos_MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

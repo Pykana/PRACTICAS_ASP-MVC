@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Notes\" />
+    <Folder Include="wwwroot\LibDex\" />
+    <Folder Include="wwwroot\ExcelJS\" />
+    <Folder Include="wwwroot\Knockoutjs\" />
+    <Folder Include="wwwroot\Mustache\" />
+    <Folder Include="wwwroot\Polyfill\" />
+    <Folder Include="wwwroot\FileSaver\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\js\Index.js" />
+    <None Include="wwwroot\js\site.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ClosedXML" Version="0.102.2" />
+  </ItemGroup>
+
+</Project>

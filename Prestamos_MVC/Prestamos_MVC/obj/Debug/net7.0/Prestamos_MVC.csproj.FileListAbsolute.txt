@@ -1,0 +1,120 @@
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\appsettings.Development.json
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\appsettings.json
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\Prestamos_MVC.staticwebassets.runtime.json
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\Prestamos_MVC.exe
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\Prestamos_MVC.deps.json
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\Prestamos_MVC.runtimeconfig.json
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\Prestamos_MVC.dll
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\Prestamos_MVC.pdb
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.AssemblyInfoInputs.cache
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.AssemblyInfo.cs
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.csproj.CoreCompileInputs.cache
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.RazorAssemblyInfo.cache
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.RazorAssemblyInfo.cs
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.sourcelink.json
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\staticwebassets.build.json
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\staticwebassets.development.json
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\staticwebassets\msbuild.Prestamos_MVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\staticwebassets\msbuild.build.Prestamos_MVC.props
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Prestamos_MVC.props
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Prestamos_MVC.props
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\staticwebassets.pack.json
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\scopedcss\bundle\Prestamos_MVC.styles.css
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\scopedcss\projectbundle\Prestamos_MVC.bundle.scp.css
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.dll
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\refint\Prestamos_MVC.dll
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.pdb
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.genruntimeconfig.cache
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\ref\Prestamos_MVC.dll
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\ClosedXML.dll
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\ExcelNumberFormat.dll
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\Irony.dll
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\SixLabors.Fonts.dll
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\System.IO.Packaging.dll
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\XLParser.dll
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.csproj.AssemblyReference.cache
+D:\eelias\Documents\Github\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamo.E37A3DFD.Up2Date
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\appsettings.Development.json
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\appsettings.json
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\Prestamos_MVC.staticwebassets.runtime.json
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\Prestamos_MVC.exe
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\Prestamos_MVC.deps.json
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\Prestamos_MVC.runtimeconfig.json
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\Prestamos_MVC.dll
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\Prestamos_MVC.pdb
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\ClosedXML.dll
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\ExcelNumberFormat.dll
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\Irony.dll
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\SixLabors.Fonts.dll
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\System.IO.Packaging.dll
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\XLParser.dll
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.csproj.AssemblyReference.cache
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.AssemblyInfoInputs.cache
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.AssemblyInfo.cs
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.csproj.CoreCompileInputs.cache
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.RazorAssemblyInfo.cache
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.RazorAssemblyInfo.cs
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.sourcelink.json
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\staticwebassets.build.json
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\staticwebassets.development.json
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\staticwebassets\msbuild.Prestamos_MVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\staticwebassets\msbuild.build.Prestamos_MVC.props
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Prestamos_MVC.props
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Prestamos_MVC.props
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\staticwebassets.pack.json
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\scopedcss\bundle\Prestamos_MVC.styles.css
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\scopedcss\projectbundle\Prestamos_MVC.bundle.scp.css
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamo.E37A3DFD.Up2Date
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.dll
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\refint\Prestamos_MVC.dll
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.pdb
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.genruntimeconfig.cache
+D:\eelias\Documents\EElias\Practicas\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\ref\Prestamos_MVC.dll
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\appsettings.Development.json
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\appsettings.json
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\Prestamos_MVC.staticwebassets.runtime.json
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\Prestamos_MVC.exe
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\Prestamos_MVC.deps.json
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\Prestamos_MVC.runtimeconfig.json
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\Prestamos_MVC.dll
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\Prestamos_MVC.pdb
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\ClosedXML.dll
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\ExcelNumberFormat.dll
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\Irony.dll
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\SixLabors.Fonts.dll
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\System.IO.Packaging.dll
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\bin\Debug\net7.0\XLParser.dll
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.csproj.AssemblyReference.cache
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.AssemblyInfoInputs.cache
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.AssemblyInfo.cs
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.csproj.CoreCompileInputs.cache
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.RazorAssemblyInfo.cache
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.RazorAssemblyInfo.cs
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.sourcelink.json
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\staticwebassets.build.json
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\staticwebassets.development.json
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\staticwebassets\msbuild.Prestamos_MVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\staticwebassets\msbuild.build.Prestamos_MVC.props
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Prestamos_MVC.props
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Prestamos_MVC.props
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\staticwebassets.pack.json
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\scopedcss\bundle\Prestamos_MVC.styles.css
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\scopedcss\projectbundle\Prestamos_MVC.bundle.scp.css
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamo.E37A3DFD.Up2Date
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.dll
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\refint\Prestamos_MVC.dll
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.pdb
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\Prestamos_MVC.genruntimeconfig.cache
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Debug\net7.0\ref\Prestamos_MVC.dll

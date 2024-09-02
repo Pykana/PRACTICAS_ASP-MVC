@@ -1,0 +1,14 @@
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Release\net7.0\PubTmp\Out\Prestamos_MVC.exe
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Release\net7.0\PubTmp\Out\Prestamos_MVC.dll
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Release\net7.0\PubTmp\Out\Prestamos_MVC.deps.json
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Release\net7.0\PubTmp\Out\Prestamos_MVC.runtimeconfig.json
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Release\net7.0\PubTmp\Out\Prestamos_MVC.pdb
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Release\net7.0\PubTmp\Out\ClosedXML.dll
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Release\net7.0\PubTmp\Out\DocumentFormat.OpenXml.dll
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Release\net7.0\PubTmp\Out\ExcelNumberFormat.dll
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Release\net7.0\PubTmp\Out\Irony.dll
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Release\net7.0\PubTmp\Out\SixLabors.Fonts.dll
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Release\net7.0\PubTmp\Out\System.IO.Packaging.dll
+D:\eelias\Documents\EElias\Practicas\Proyectos\ASP.NET MVC\Prestamos_MVC\Prestamos_MVC\obj\Release\net7.0\PubTmp\Out\XLParser.dll

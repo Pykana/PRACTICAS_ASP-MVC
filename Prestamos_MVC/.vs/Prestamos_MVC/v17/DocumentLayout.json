@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6561A2-D0CB-421F-86D7-4A8D20A95814}|Prestamos_MVC\\Prestamos_MVC.csproj|d:\\eelias\\documents\\eelias\\practicas\\proyectos\\asp.net mvc\\prestamos_mvc\\prestamos_mvc\\wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6B6561A2-D0CB-421F-86D7-4A8D20A95814}|Prestamos_MVC\\Prestamos_MVC.csproj|solutionrelative:prestamos_mvc\\wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6561A2-D0CB-421F-86D7-4A8D20A95814}|Prestamos_MVC\\Prestamos_MVC.csproj|d:\\eelias\\documents\\eelias\\practicas\\proyectos\\asp.net mvc\\prestamos_mvc\\prestamos_mvc\\wwwroot\\libdex\\js\\angular.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6B6561A2-D0CB-421F-86D7-4A8D20A95814}|Prestamos_MVC\\Prestamos_MVC.csproj|solutionrelative:prestamos_mvc\\wwwroot\\libdex\\js\\angular.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6561A2-D0CB-421F-86D7-4A8D20A95814}|Prestamos_MVC\\Prestamos_MVC.csproj|d:\\eelias\\documents\\eelias\\practicas\\proyectos\\asp.net mvc\\prestamos_mvc\\prestamos_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B6561A2-D0CB-421F-86D7-4A8D20A95814}|Prestamos_MVC\\Prestamos_MVC.csproj|solutionrelative:prestamos_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6561A2-D0CB-421F-86D7-4A8D20A95814}|Prestamos_MVC\\Prestamos_MVC.csproj|d:\\eelias\\documents\\eelias\\practicas\\proyectos\\asp.net mvc\\prestamos_mvc\\prestamos_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B6561A2-D0CB-421F-86D7-4A8D20A95814}|Prestamos_MVC\\Prestamos_MVC.csproj|solutionrelative:prestamos_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6561A2-D0CB-421F-86D7-4A8D20A95814}|Prestamos_MVC\\Prestamos_MVC.csproj|d:\\eelias\\documents\\eelias\\practicas\\proyectos\\asp.net mvc\\prestamos_mvc\\prestamos_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B6561A2-D0CB-421F-86D7-4A8D20A95814}|Prestamos_MVC\\Prestamos_MVC.csproj|solutionrelative:prestamos_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6561A2-D0CB-421F-86D7-4A8D20A95814}|Prestamos_MVC\\Prestamos_MVC.csproj|d:\\eelias\\documents\\eelias\\practicas\\proyectos\\asp.net mvc\\prestamos_mvc\\prestamos_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6561A2-D0CB-421F-86D7-4A8D20A95814}|Prestamos_MVC\\Prestamos_MVC.csproj|solutionrelative:prestamos_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6561A2-D0CB-421F-86D7-4A8D20A95814}|Prestamos_MVC\\Prestamos_MVC.csproj|d:\\eelias\\documents\\eelias\\practicas\\proyectos\\asp.net mvc\\prestamos_mvc\\prestamos_mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B6561A2-D0CB-421F-86D7-4A8D20A95814}|Prestamos_MVC\\Prestamos_MVC.csproj|solutionrelative:prestamos_mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6561A2-D0CB-421F-86D7-4A8D20A95814}|Prestamos_MVC\\Prestamos_MVC.csproj|d:\\eelias\\documents\\eelias\\practicas\\proyectos\\asp.net mvc\\prestamos_mvc\\prestamos_mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B6561A2-D0CB-421F-86D7-4A8D20A95814}|Prestamos_MVC\\Prestamos_MVC.csproj|solutionrelative:prestamos_mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6561A2-D0CB-421F-86D7-4A8D20A95814}|Prestamos_MVC\\Prestamos_MVC.csproj|d:\\eelias\\documents\\eelias\\practicas\\proyectos\\asp.net mvc\\prestamos_mvc\\prestamos_mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6561A2-D0CB-421F-86D7-4A8D20A95814}|Prestamos_MVC\\Prestamos_MVC.csproj|solutionrelative:prestamos_mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6561A2-D0CB-421F-86D7-4A8D20A95814}|Prestamos_MVC\\Prestamos_MVC.csproj|d:\\eelias\\documents\\eelias\\practicas\\proyectos\\asp.net mvc\\prestamos_mvc\\prestamos_mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B6561A2-D0CB-421F-86D7-4A8D20A95814}|Prestamos_MVC\\Prestamos_MVC.csproj|solutionrelative:prestamos_mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6561A2-D0CB-421F-86D7-4A8D20A95814}|Prestamos_MVC\\Prestamos_MVC.csproj|d:\\eelias\\documents\\eelias\\practicas\\proyectos\\asp.net mvc\\prestamos_mvc\\prestamos_mvc\\util\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6561A2-D0CB-421F-86D7-4A8D20A95814}|Prestamos_MVC\\Prestamos_MVC.csproj|solutionrelative:prestamos_mvc\\util\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "angular.js",
+              "DocumentMoniker": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\angular.js",
+              "RelativeDocumentMoniker": "Prestamos_MVC\\wwwroot\\LibDex\\js\\angular.js",
+              "ToolTip": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\LibDex\\js\\angular.js",
+              "RelativeToolTip": "Prestamos_MVC\\wwwroot\\LibDex\\js\\angular.js",
+              "ViewState": "AQIAALo8AAAAAAAAAAAAALo8AABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-12T19:48:40.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.js",
+              "DocumentMoniker": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\js\\Index.js",
+              "RelativeDocumentMoniker": "Prestamos_MVC\\wwwroot\\js\\Index.js",
+              "ToolTip": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\wwwroot\\js\\Index.js",
+              "RelativeToolTip": "Prestamos_MVC\\wwwroot\\js\\Index.js",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-12T19:42:29.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Prestamos_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Prestamos_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAADwvzkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T21:14:43.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Prestamos_MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Prestamos_MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T20:40:06.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Prestamos_MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Prestamos_MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T20:40:04.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Prestamos_MVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Prestamos_MVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T20:40:02.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Prestamos_MVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Prestamos_MVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T20:39:55.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Prestamos_MVC\\appsettings.json",
+              "ToolTip": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\appsettings.json",
+              "RelativeToolTip": "Prestamos_MVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T19:17:30.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Prestamos_MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Prestamos_MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T20:40:00.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Prestamos_MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Prestamos_MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T20:38:25.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\Util\\Conexion.cs",
+              "RelativeDocumentMoniker": "Prestamos_MVC\\Util\\Conexion.cs",
+              "ToolTip": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\ASP.NET MVC\\Prestamos_MVC\\Prestamos_MVC\\Util\\Conexion.cs",
+              "RelativeToolTip": "Prestamos_MVC\\Util\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T20:38:23.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
